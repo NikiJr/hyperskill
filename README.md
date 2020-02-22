@@ -1,2 +1,2 @@
 # hyperskill
-1st project from HyperSkill
+All projects from HyperSkill
